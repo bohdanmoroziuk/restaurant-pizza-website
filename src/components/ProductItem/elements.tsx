@@ -39,7 +39,6 @@ export const ProductPrice = styled.p`
 export const ProductButton = styled.button`
   font-size: 1rem;
   padding: 1rem 4rem;
-  border: none;
   background: #e31837;
   transition: 0.2s ease-out;
 

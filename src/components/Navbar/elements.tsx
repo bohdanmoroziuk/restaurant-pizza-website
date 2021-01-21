@@ -14,7 +14,6 @@ export const NavLink = styled(Link)`
   font-size: 2rem;
   display: flex;
   align-items: center;
-  text-decoration: none;
   cursor: pointer;
 
   @media screen and (max-width: 400px) {

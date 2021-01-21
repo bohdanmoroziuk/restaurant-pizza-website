@@ -36,7 +36,6 @@ export const Logo = styled(Link)`
   color: #fff;
   justify-self: start;
   cursor: pointer;
-  text-decoration: none;
   font-size: 1.5rem;
   display: flex;
   align-items: center;

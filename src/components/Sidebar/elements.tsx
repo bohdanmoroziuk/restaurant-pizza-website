@@ -54,7 +54,6 @@ export const MenuLink = styled(Link)`
   align-items: center;
   justify-content: center;
   font-size: 1.5rem;
-  text-decoration: none;
   list-style: none;
   transition: 0.2s ease-in-out;
   color: #000;
@@ -81,7 +80,6 @@ export const OrderLink = styled(Link)`
   border: none;
   cursor: pointer;
   transition: 0.2s ease-in-out;
-  text-decoration: none;
 
   &:hover {
     background: #fff;
