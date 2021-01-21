@@ -61,7 +61,6 @@ export const MenuLink = styled(Link)`
 
   &:hover {
     color: #e31837;
-    transition: 0.2s ease-in-out;
   }
 `;
 
