@@ -2,6 +2,7 @@
   "name": "restaurant-pizza-website",
   "homepage": "https://yuzumi.github.io/restaurant-pizza-website",
   "version": "0.1.0",
+  "description": "Pizza website design",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
